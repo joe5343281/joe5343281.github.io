@@ -10,14 +10,14 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Tzeng Jiun-You # add your name
 author-img: sky.jpeg # add your photo
 about-author: Rookie for coding # add description
-social-twitter: # add your Twitter handle
+social-twitter: / # add your Twitter handle
 social-facebook: joe5343281 # add your Facebook handle
 social-github: joe5343281 # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: joe5343281@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: joe5343281 # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
